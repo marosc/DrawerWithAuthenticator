@@ -4,7 +4,8 @@ For education purposes I give to you example demo how to implement :
 
   - **Material Drawer with Toolbar**
   - **Authenticator**
-  - 
+
+
 ### Version
 1.0
 
