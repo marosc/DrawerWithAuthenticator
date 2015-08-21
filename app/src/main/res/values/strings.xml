@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DrawerWithAuthenticator</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="profile_name">Username</string>
+    <string name="profile_email">email</string>
+    <string name="profile_icon_desc">Photo</string>
+    <string name="menu_item_text">Item</string>
+    <string name="login_label">Login</string>
+
+    <string name="login_help">
+        Help:\n
+        This is help text.
+    </string>
+</resources>
